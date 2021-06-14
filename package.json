@@ -1,0 +1,22 @@
+{
+  "name": "cientifico",
+  "version": "1.0.0",
+  "description": "Single page application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Arturo Juarez <jusart.92@gamil.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^5.3.1",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
